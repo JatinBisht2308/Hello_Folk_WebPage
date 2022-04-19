@@ -55,8 +55,29 @@ body{
 }
 .right-down>ul>li{
     text-decoration: none;
-    margin-right: 10px;
+    margin-right: 1rem;
+    margin-left: 2.3rem;
+}
+.right-up>img{
+    text-decoration: none;
+    /* margin-right: 2rem; */
+    /* padding-right: 2rem; */
+    padding-left: 6.88rem;
 }
 .right-down>ul>li>a{
     text-decoration: none;
+    color: black;
+}
+#live{
+    margin-left: 19px;
+}
+#menu{
+   margin-left: -15rem;
+}
+#running{
+  margin-left:-5rem;
+  margin-right: 10rem;
+}
+#membership{
+    padding-left: 4rem;
 }
